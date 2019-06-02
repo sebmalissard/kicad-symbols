@@ -29,10 +29,14 @@ Other KiCad library repositories are located:
 This is a fork of the official KiCad shematic symbol libraries.
 
 Installation
- git clone https://github.com/sebmalissard/kicad-symbols ${HOME}/Workspace/KiCad/kicad-symbols
+```
+git clone https://github.com/sebmalissard/kicad-symbols ${HOME}/Workspace/KiCad/kicad-symbols
+```
 
 Update KICAD_SYMBOL_DIR in KiCad Eeschema, go to "Preferences" > "Configures Paths..." (example with HOME=/home/seb).
- KICAD_SYMBOL_DIR = /home/seb/Workspace/KiCad/kicad-symbols
+```
+KICAD_SYMBOL_DIR = /home/seb/Workspace/KiCad/kicad-symbols
+```
 
 Source of added libraries:
 w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
