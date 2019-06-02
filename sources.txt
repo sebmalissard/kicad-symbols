@@ -1,0 +1,2 @@
+Libraries source:
+w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
