@@ -39,5 +39,6 @@ KICAD_SYMBOL_DIR = /home/seb/Workspace/KiCad/kicad-symbols
 ```
 
 Source of added libraries:
-* w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
 * max: https://github.com/aleksmk/kicad-libs
+* teensy: https://github.com/XenGi/teensy_library.git
+* w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip

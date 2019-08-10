@@ -200,5 +200,6 @@
   (lib (name MCU_Microchip_SAME)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/MCU_Microchip_SAME.lib)(options "")(descr "Microchip SAME microcontrollers"))
   (lib (name MCU_Microchip_SAML)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/MCU_Microchip_SAML.lib)(options "")(descr "Microchip SAML microcontrollers"))
   (lib (name max)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/max.lib)(options "")(descr "Max symbols"))
+  (lib (name teensy)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/teensy.lib)(options "")(descr "Teensy symbols"))
   (lib (name w_logic)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/w_logic.lib)(options "")(descr ""))
 )
