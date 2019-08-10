@@ -40,5 +40,6 @@ KICAD_SYMBOL_DIR = /home/seb/Workspace/KiCad/kicad-symbols
 
 Source of added libraries:
 * max: https://github.com/aleksmk/kicad-libs
+* promicro: https://github.com/Biacco42/ProMicroKiCad.git
 * teensy: https://github.com/XenGi/teensy_library.git
 * w_logic: http://smisioto.no-ip.org/kicad_libs/library/lib_w_logic.zip
