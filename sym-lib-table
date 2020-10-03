@@ -201,5 +201,5 @@
   (lib (name "Valve")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Valve.lib")(options "")(descr "Valve symbols"))
   (lib (name "Video")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Video.kicad_sym")(options "")(descr "Video symbols"))
   (lib (name "power")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/power.kicad_sym")(options "")(descr "Power symbols, special power flags"))
-  (lib (name "pspice")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/pspice.lib")(options "")(descr "Legacy pspice symbol library."))
+  (lib (name "pspice")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/pspice.kicad_sym")(options "")(descr "Legacy pspice symbol library."))
 )
