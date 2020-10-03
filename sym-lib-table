@@ -192,7 +192,7 @@
   (lib (name "Timer")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Timer.lib")(options "")(descr "Assorted timer devices"))
   (lib (name "Timer_PLL")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Timer_PLL.lib")(options "")(descr "Phase locked loop (PLL) devices"))
   (lib (name "Timer_RTC")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Timer_RTC.lib")(options "")(descr "Real time clock (RTC) devices"))
-  (lib (name "Transformer")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Transformer.lib")(options "")(descr "Transformer symbols"))
+  (lib (name "Transformer")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Transformer.kicad_sym")(options "")(descr "Transformer symbols"))
   (lib (name "Transistor_Array")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Transistor_Array.kicad_sym")(options "")(descr "Specialized transistor arrays"))
   (lib (name "Transistor_BJT")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Transistor_BJT.kicad_sym")(options "")(descr "BJT transistor symbols"))
   (lib (name "Transistor_FET")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Transistor_FET.kicad_sym")(options "")(descr "FET transistor symbols"))
