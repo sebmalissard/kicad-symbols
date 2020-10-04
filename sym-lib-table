@@ -103,7 +103,7 @@
   (lib (name "MCU_Microchip_SAML")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_SAML.lib")(options "")(descr "Microchip SAML microcontrollers"))
   (lib (name "MCU_Microchip_SAMV")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_SAMV.lib")(options "")(descr "Microchip SAMV microcontrollers"))
   (lib (name "MCU_Module")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Module.lib")(options "")(descr "Microcontroller Modules and Breakouts (Arduino ...)"))
-  (lib (name "MCU_Nordic")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Nordic.lib")(options "")(descr "Nordic Semiconductor microcontrollers"))
+  (lib (name "MCU_Nordic")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Nordic.kicad_sym")(options "")(descr "Nordic Semiconductor microcontrollers"))
   (lib (name "MCU_NXP_ColdFire")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_NXP_ColdFire.kicad_sym")(options "")(descr "NXP ColdFire microcontrollers (formerly Motorola)"))
   (lib (name "MCU_NXP_HC11")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_NXP_HC11.kicad_sym")(options "")(descr "NXP HC11 microcontrollers"))
   (lib (name "MCU_NXP_HC12")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_NXP_HC12.kicad_sym")(options "")(descr "NXP HC12 microcontrollers"))
