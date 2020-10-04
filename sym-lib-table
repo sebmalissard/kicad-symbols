@@ -62,7 +62,7 @@
   (lib (name "FPGA_Xilinx_Virtex5")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/FPGA_Xilinx_Virtex5.lib")(options "")(descr "Xilinx Virtex5 FPGA symbols"))
   (lib (name "FPGA_Xilinx_Virtex6")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/FPGA_Xilinx_Virtex6.lib")(options "")(descr "Xilinx Virtex6 FPGA symbols"))
   (lib (name "FPGA_Xilinx_Virtex7")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/FPGA_Xilinx_Virtex7.lib")(options "")(descr "Xilinx Virtex7 FPGA symbols"))
-  (lib (name "GPU")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/GPU.lib")(options "")(descr "Graphics Processing Units"))
+  (lib (name "GPU")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/GPU.kicad_sym")(options "")(descr "Graphics Processing Units"))
   (lib (name "Graphic")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Graphic.kicad_sym")(options "")(descr "Graphical symbols"))
   (lib (name "Interface")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Interface.kicad_sym")(options "")(descr "Assorted interface symbols"))
   (lib (name "Interface_CAN_LIN")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Interface_CAN_LIN.kicad_sym")(options "")(descr "CAN / LIN interface symbols"))
