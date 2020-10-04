@@ -51,7 +51,7 @@
   (lib (name "Driver_Motor")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Driver_Motor.lib")(options "")(descr "Integrated motor driver and controller ICs"))
   (lib (name "Driver_Relay")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Driver_Relay.lib")(options "")(descr "Relay drivers and controllers"))
   (lib (name "Driver_TEC")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Driver_TEC.lib")(options "")(descr "Thermoelectric cooler (Peltier) drivers and controllers"))
-  (lib (name "Fiber_Optic")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Fiber_Optic.lib")(options "")(descr "Fiber optic symbols"))
+  (lib (name "Fiber_Optic")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Fiber_Optic.kicad_sym")(options "")(descr "Fiber optic symbols"))
   (lib (name "Filter")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Filter.kicad_sym")(options "")(descr "Filter symbols"))
   (lib (name "FPGA_Lattice")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/FPGA_Lattice.kicad_sym")(options "")(descr "Lattice FPGA symbols"))
   (lib (name "FPGA_Microsemi")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/FPGA_Microsemi.kicad_sym")(options "")(descr "Microsemi FPGA symbols"))
