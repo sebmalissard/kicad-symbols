@@ -33,7 +33,7 @@
   (lib (name "CPU_NXP_68000")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/CPU_NXP_68000.lib")(options "")(descr "NXP (formerly Motorola) 68000 CPUs"))
   (lib (name "CPU_NXP_IMX")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/CPU_NXP_IMX.lib")(options "")(descr "NXP IMX CPUs"))
   (lib (name "CPU_PowerPC")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/CPU_PowerPC.lib")(options "")(descr "PowerPC-based CPUs"))
-  (lib (name "Device")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Device.lib")(options "")(descr "Generic symbols for common devices"))
+  (lib (name "Device")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Device.kicad_sym")(options "")(descr "Generic symbols for common devices"))
   (lib (name "Diode")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Diode.kicad_sym")(options "")(descr "Diodes"))
   (lib (name "Diode_Bridge")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Diode_Bridge.kicad_sym")(options "")(descr "Diode Bridges/Rectifiers"))
   (lib (name "Diode_Laser")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Diode_Laser.kicad_sym")(options "")(descr "Laser diodes"))
