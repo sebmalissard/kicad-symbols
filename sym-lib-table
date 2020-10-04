@@ -84,7 +84,7 @@
   (lib (name "Logic_Programmable")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Logic_Programmable.lib")(options "")(descr "Programmable logic symbols"))
   (lib (name "MCU_AnalogDevices")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_AnalogDevices.lib")(options "")(descr "Analog Devices microcontrollers"))
   (lib (name "MCU_Cypress")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Cypress.lib")(options "")(descr "Cypress microcontrollers"))
-  (lib (name "MCU_Dialog")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Dialog.lib")(options "")(descr "Dialog Semiconductor microcontrollers"))
+  (lib (name "MCU_Dialog")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Dialog.kicad_sym")(options "")(descr "Dialog Semiconductor microcontrollers"))
   (lib (name "MCU_Espressif")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Espressif.kicad_sym")(options "")(descr "Espressif microcontrollers"))
   (lib (name "MCU_Intel")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Intel.kicad_sym")(options "")(descr "Various Intel MCU devices and associated peripherals"))
   (lib (name "MCU_Microchip_8051")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_8051.kicad_sym")(options "")(descr "Microchip 8051 microcontrollers"))
