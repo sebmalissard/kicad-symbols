@@ -86,7 +86,7 @@
   (lib (name "MCU_Cypress")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Cypress.lib")(options "")(descr "Cypress microcontrollers"))
   (lib (name "MCU_Dialog")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Dialog.lib")(options "")(descr "Dialog Semiconductor microcontrollers"))
   (lib (name "MCU_Espressif")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Espressif.lib")(options "")(descr "Espressif microcontrollers"))
-  (lib (name "MCU_Intel")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Intel.lib")(options "")(descr "Various Intel MCU devices and associated peripherals"))
+  (lib (name "MCU_Intel")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Intel.kicad_sym")(options "")(descr "Various Intel MCU devices and associated peripherals"))
   (lib (name "MCU_Microchip_8051")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_8051.kicad_sym")(options "")(descr "Microchip 8051 microcontrollers"))
   (lib (name "MCU_Microchip_ATmega")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_ATmega.kicad_sym")(options "")(descr "Microchip ATmega microcontrollers"))
   (lib (name "MCU_Microchip_ATtiny")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_ATtiny.kicad_sym")(options "")(descr "Microchip ATtiny microcontrollers"))
