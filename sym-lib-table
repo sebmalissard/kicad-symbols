@@ -174,7 +174,7 @@
   (lib (name "RF_Switch")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/RF_Switch.kicad_sym")(options "")(descr "RF switch symbols"))
   (lib (name "RF_WiFi")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/RF_WiFi.kicad_sym")(options "")(descr "WiFi symbols"))
   (lib (name "RF_ZigBee")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/RF_ZigBee.kicad_sym")(options "")(descr "ZigBee / XBee symbols"))
-  (lib (name "Security")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Security.lib")(options "")(descr "Security devices"))
+  (lib (name "Security")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Security.kicad_sym")(options "")(descr "Security devices"))
   (lib (name "Sensor")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Sensor.kicad_sym")(options "")(descr "Multi-function sensors, assorted sensors"))
   (lib (name "Sensor_Audio")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Sensor_Audio.kicad_sym")(options "")(descr "Audio / sound / microphone sensors"))
   (lib (name "Sensor_Current")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Sensor_Current.kicad_sym")(options "")(descr "Current sensors"))
