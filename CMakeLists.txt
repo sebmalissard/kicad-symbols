@@ -39,9 +39,8 @@ add_custom_target( uninstall
 # Installed files.
 #================================================
 
-# Install all of the symbol library (.lib) and document (.dcm) files in this folder.
-file(GLOB dcm_files "*.dcm")
-file(GLOB lib_files "*.lib")
+# Install all of the symbol library (.kicad_sym) files in this folder.
+file(GLOB dcm_files "*.kicad_sym")
 
 install(FILES ${dcm_files}
         DESTINATION ${KICAD_LIBRARY}
