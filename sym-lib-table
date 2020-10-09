@@ -18,7 +18,7 @@
   (lib (name "Audio")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Audio.kicad_sym")(options "")(descr "Audio devices"))
   (lib (name "Battery_Management")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Battery_Management.kicad_sym")(options "")(descr "Battery management ICs"))
   (lib (name "Buffer")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Buffer.kicad_sym")(options "")(descr "High-speed clock/data buffer ICs"))
-  (lib (name "Comparator")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Comparator.lib")(options "")(descr "Comparator symbols"))
+  (lib (name "Comparator")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Comparator.kicad_sym")(options "")(descr "Comparator symbols"))
   (lib (name "Connector")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Connector.kicad_sym")(options "")(descr "Connector symbols (Examples: Terminal Block, D-SUB, DIN, USB...)"))
   (lib (name "Connector_Generic")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Connector_Generic.kicad_sym")(options "")(descr "Generic connector symbols"))
   (lib (name "Connector_Generic_MountingPin")(type "KiCad")(uri "${KICAD_SYMBOL_DIR}/Connector_Generic_MountingPin.kicad_sym")(options "")(descr "Generic connectors with mechanical mounting pin"))
